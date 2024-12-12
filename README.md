@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=eurostile&size=48&duration=3000&pause=50&color=D2042D&multiline=true&repeat=false&width=1300&height=140&lines=Hola%2C+I+am+Salman!;Software+Engineering+Student+and+a+Cool+Developer%F0%9F%98%8E%F0%9F%94%A5" alt="Typing SVG" /></a>
-<img src="https://i.pinimg.com/736x/c3/f5/70/c3f570a3aabad713e5c092a9c7fab915.jpg" align="right" height="350px" />
+<img src="art.png" align="right" height="350px" />
 - 🔭 I’m currently working on my skill set while contributing stuff
 - 🌱 I’m currently learning **Python, ladder-programming, 3d modeling...**
 - 💬 Ask me about **Hacking, JavaScript, TypeScript, Python, ladder-programming, Art...**
