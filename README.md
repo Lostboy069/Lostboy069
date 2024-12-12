@@ -9,10 +9,10 @@
 - 📫 How to reach me: salmanumer2day@gmail.com
 - ⚡ Fun fact: A programmer accidentally deleted a crucial piece of code, costing a company billions of dollars. A cautionary tale for every developer!💀
 <h4>Connect with Me:</h4>
-<a href="https://dev.to/your-username" target="_blank">
-  <img src="https://cdn.dev-to.com/static/logos/dev-to-logo-black.svg" alt="Dev.to" width="20" height="20">
+<a href="https://dev.to/lostboy069" target="_blank">
+  <img src="https://media2.dev.to/dynamic/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="Dev.to" height="40">
 </a>
 
 <a href="https://www.linkedin.com/in/muhammad-salman-835aa3332/" target="_blank">
-  <img src="[indeed.png](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/2560px-LinkedIn_2021.svg.png)" alt="Indeed" width="20" height="20">
+  <img src="https://w7.pngwing.com/pngs/329/312/png-transparent-in-logo-linkedin-computer-icons-social-media-professional-network-service-youtube-linkedin-miscellaneous-blue-angle.png" alt="Indeed" height="40">
 </a>
