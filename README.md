@@ -1,14 +1,14 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Helvetica&size=28&pause=1000&color=6495ED&multiline=true&width=592&height=123&lines=Hola%2C+I+am+Salman!+;Cool+developer+and+an+Engineering+Student+😎+🔥" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=82FF8F&multiline=true&repeat=false&width=435&lines=My+name+is+Muhammad+Salman;Cyber+Security+student+%E2%82%93%CB%9A.+%E0%AD%AD+%CB%9A%E2%97%8B%E2%97%A6%CB%9A.+" alt="Typing SVG" /></a>
 - 🔭 I’m currently working on my skill set while contributing stuff
 - 🌱 I’m currently learning **Python, ladder-programming, 3d modeling...**
 - 💬 Ask me about **Hacking, JavaScript, TypeScript, Python, ladder-programming, Art...**
 - 📫 How to reach me: salmanumer2day@gmail.com
-- 😎 Find my projects at: <a target_blank href='https://salman-hacker.netlify.app/'>Personal portfolio</a>
+- 😎 Find my projects at: <a target_blank href='https://cybersalman.netlify.app/'>Personal portfolio</a>
 - ⚡ Fun fact: A programmer accidentally deleted a crucial piece of code, costing a company billions of dollars. A cautionary tale for every developer!💀
 <h3 align="left" class="heading-element" dir="auto">Connect with me:</h3>
 <a href="https://dev.to/lostboy069" target="_blank rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="MuhammadSalman" height="30" width="40" style="max-width: 100%;"></a>
 <a href="https://linkedin.com/in/muhammad-salman-835aa3332" target="_blank rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salmanop00" height="30" width="40" style="max-width: 100%;"></a>
-<a href="https://www.facebook.com/profile.php?id=100066092120488" target="_blank rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="salmanop00" height="30" width="40" style="max-width: 100%;"></a>
+<a href="#" target="_blank rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="salmanop00" height="30" width="40" style="max-width: 100%;"></a>
 <a href="https://medium.com/@lostboy06](https://medium.com/@salmanumer2day" target="_blank rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@lostboy069" height="30" width="40" style="max-width: 100%;"></a>
 <a href="https://www.youtube.com/@MrBeast" target="_blank rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Mr Beast" height="30" width="40" style="max-width: 100%;"></a>
 
