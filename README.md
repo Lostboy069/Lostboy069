@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=82FF8F&multiline=true&repeat=false&width=435&lines=My+name+is+Muhammad+Salman;Cyber+Security+student+%E2%82%93%CB%9A.+%E0%AD%AD+%CB%9A%E2%97%8B%E2%97%A6%CB%9A.+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=82FF8F&multiline=true&repeat=false&width=500&height=100&lines=My+name+is+Muhammad+Salman;Cyber+Security+student+%E2%82%93%CB%9A.+%E0%AD%AD+%CB%9A%E2%97%8B%E2%97%A6%CB%9A.+" alt="Typing SVG" /></a>
 - 🔭 I’m currently working on my skill set while contributing stuff
 - 🌱 I’m currently learning **Python, ladder-programming, 3d modeling...**
 - 💬 Ask me about **Hacking, JavaScript, TypeScript, Python, ladder-programming, Art...**
